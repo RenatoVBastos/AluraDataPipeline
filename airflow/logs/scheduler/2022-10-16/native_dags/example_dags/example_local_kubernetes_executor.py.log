@@ -1,0 +1,209 @@
+[2022-10-16T07:18:05.991-0300] {processor.py:156} INFO - Started process (PID=5929) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:18:05.992-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-10-16T07:18:05.993-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:18:05.993-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:18:06.013-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:18:06.013-0300] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-10-16T07:18:06.014-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:18:06.014-0300] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-10-16T07:18:06.014-0300] {processor.py:770} WARNING - No viable dags retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:18:06.021-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.035 seconds
+[2022-10-16T07:18:45.460-0300] {processor.py:156} INFO - Started process (PID=6004) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:18:45.464-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-10-16T07:18:45.465-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:18:45.465-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:18:45.490-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:18:45.490-0300] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-10-16T07:18:45.490-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:18:45.490-0300] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-10-16T07:18:45.490-0300] {processor.py:770} WARNING - No viable dags retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:18:45.497-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.045 seconds
+[2022-10-16T07:19:24.150-0300] {processor.py:156} INFO - Started process (PID=6070) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:19:24.152-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-10-16T07:19:24.153-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:19:24.153-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:19:24.165-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:19:24.165-0300] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-10-16T07:19:24.165-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:19:24.165-0300] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-10-16T07:19:24.165-0300] {processor.py:770} WARNING - No viable dags retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:19:24.172-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.024 seconds
+[2022-10-16T07:20:02.110-0300] {processor.py:156} INFO - Started process (PID=6179) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:20:02.121-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-10-16T07:20:02.121-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:20:02.121-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:20:02.138-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:20:02.138-0300] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-10-16T07:20:02.138-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:20:02.138-0300] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-10-16T07:20:02.141-0300] {processor.py:770} WARNING - No viable dags retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:20:02.158-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.050 seconds
+[2022-10-16T07:20:40.617-0300] {processor.py:156} INFO - Started process (PID=6371) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:20:40.620-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-10-16T07:20:40.620-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:20:40.620-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:20:40.637-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:20:40.636-0300] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-10-16T07:20:40.637-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:20:40.637-0300] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-10-16T07:20:40.637-0300] {processor.py:770} WARNING - No viable dags retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:20:40.649-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.036 seconds
+[2022-10-16T07:21:17.319-0300] {processor.py:156} INFO - Started process (PID=6432) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:21:17.322-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-10-16T07:21:17.324-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:21:17.323-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:21:17.350-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:21:17.349-0300] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-10-16T07:21:17.350-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:21:17.350-0300] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-10-16T07:21:17.350-0300] {processor.py:770} WARNING - No viable dags retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:21:17.357-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.048 seconds
+[2022-10-16T07:22:00.435-0300] {processor.py:156} INFO - Started process (PID=6514) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:22:00.440-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-10-16T07:22:00.441-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:22:00.441-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:22:00.460-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:22:00.460-0300] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-10-16T07:22:00.460-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:22:00.460-0300] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-10-16T07:22:00.461-0300] {processor.py:770} WARNING - No viable dags retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:22:00.467-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.036 seconds
+[2022-10-16T07:22:42.827-0300] {processor.py:156} INFO - Started process (PID=6587) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:22:42.830-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-10-16T07:22:42.832-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:22:42.831-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:22:42.857-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:22:42.856-0300] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-10-16T07:22:42.857-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:22:42.857-0300] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-10-16T07:22:42.857-0300] {processor.py:770} WARNING - No viable dags retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:22:42.866-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.045 seconds
+[2022-10-16T07:23:20.317-0300] {processor.py:156} INFO - Started process (PID=6655) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:23:20.320-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-10-16T07:23:20.321-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:23:20.320-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:23:20.343-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:23:20.342-0300] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-10-16T07:23:20.343-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:23:20.343-0300] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-10-16T07:23:20.343-0300] {processor.py:770} WARNING - No viable dags retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:23:20.353-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.041 seconds
+[2022-10-16T07:23:56.500-0300] {processor.py:156} INFO - Started process (PID=6716) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:23:56.502-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-10-16T07:23:56.502-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:23:56.502-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:23:56.516-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:23:56.515-0300] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-10-16T07:23:56.516-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:23:56.516-0300] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-10-16T07:23:56.516-0300] {processor.py:770} WARNING - No viable dags retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:23:56.524-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.028 seconds
+[2022-10-16T07:24:36.604-0300] {processor.py:156} INFO - Started process (PID=6799) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:24:36.606-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-10-16T07:24:36.607-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:24:36.607-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:24:36.623-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:24:36.623-0300] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-10-16T07:24:36.624-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:24:36.624-0300] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-10-16T07:24:36.624-0300] {processor.py:770} WARNING - No viable dags retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:24:36.633-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.032 seconds
+[2022-10-16T07:25:15.541-0300] {processor.py:156} INFO - Started process (PID=6860) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:25:15.543-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-10-16T07:25:15.544-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:25:15.544-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:25:15.556-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:25:15.556-0300] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-10-16T07:25:15.557-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:25:15.557-0300] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-10-16T07:25:15.557-0300] {processor.py:770} WARNING - No viable dags retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:25:15.564-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.025 seconds
+[2022-10-16T07:25:57.825-0300] {processor.py:156} INFO - Started process (PID=7060) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:25:57.829-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-10-16T07:25:57.830-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:25:57.830-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:25:57.854-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:25:57.853-0300] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-10-16T07:25:57.854-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:25:57.854-0300] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-10-16T07:25:57.854-0300] {processor.py:770} WARNING - No viable dags retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:25:57.863-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.044 seconds
+[2022-10-16T07:26:46.366-0300] {processor.py:156} INFO - Started process (PID=7161) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:26:46.370-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-10-16T07:26:46.371-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:26:46.371-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:26:46.398-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:26:46.397-0300] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-10-16T07:26:46.399-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:26:46.398-0300] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-10-16T07:26:46.399-0300] {processor.py:770} WARNING - No viable dags retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:26:46.409-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.049 seconds
+[2022-10-16T07:27:23.180-0300] {processor.py:156} INFO - Started process (PID=7225) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:27:23.183-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-10-16T07:27:23.183-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:27:23.183-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:27:23.200-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:27:23.199-0300] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-10-16T07:27:23.200-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:27:23.200-0300] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-10-16T07:27:23.200-0300] {processor.py:770} WARNING - No viable dags retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:27:23.208-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.031 seconds
+[2022-10-16T07:28:08.566-0300] {processor.py:156} INFO - Started process (PID=7309) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:28:08.569-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-10-16T07:28:08.570-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:28:08.569-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:28:08.591-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:28:08.590-0300] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-10-16T07:28:08.591-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:28:08.591-0300] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-10-16T07:28:08.591-0300] {processor.py:770} WARNING - No viable dags retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:28:08.598-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.037 seconds
+[2022-10-16T07:28:48.798-0300] {processor.py:156} INFO - Started process (PID=7383) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:28:48.801-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-10-16T07:28:48.802-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:28:48.802-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:28:48.821-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:28:48.821-0300] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-10-16T07:28:48.822-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:28:48.822-0300] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-10-16T07:28:48.822-0300] {processor.py:770} WARNING - No viable dags retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:28:48.829-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.036 seconds
+[2022-10-16T07:29:36.662-0300] {processor.py:156} INFO - Started process (PID=7466) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:29:36.665-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-10-16T07:29:36.666-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:29:36.666-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:29:36.688-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:29:36.688-0300] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-10-16T07:29:36.689-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:29:36.689-0300] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-10-16T07:29:36.692-0300] {processor.py:770} WARNING - No viable dags retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:29:36.705-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.046 seconds
+[2022-10-16T07:31:20.529-0300] {processor.py:156} INFO - Started process (PID=7852) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:31:20.531-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2022-10-16T07:31:20.531-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:31:20.531-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:31:20.552-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:31:20.552-0300] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2022-10-16T07:31:20.553-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:31:20.553-0300] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2022-10-16T07:31:20.553-0300] {processor.py:770} WARNING - No viable dags retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2022-10-16T07:31:20.563-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.037 seconds

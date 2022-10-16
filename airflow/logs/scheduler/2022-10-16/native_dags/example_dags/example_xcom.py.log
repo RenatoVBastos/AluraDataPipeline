@@ -1,0 +1,158 @@
+[2022-10-16T07:17:37.157-0300] {processor.py:156} INFO - Started process (PID=5877) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:17:37.159-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:17:37.160-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:17:37.160-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:17:37.194-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:17:37.291-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:17:37.291-0300] {manager.py:507} INFO - Created Permission View: can edit on DAG:example_xcom
+[2022-10-16T07:17:37.304-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:17:37.304-0300] {manager.py:507} INFO - Created Permission View: can read on DAG:example_xcom
+[2022-10-16T07:17:37.317-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:17:37.316-0300] {manager.py:507} INFO - Created Permission View: can delete on DAG:example_xcom
+[2022-10-16T07:17:37.317-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:17:37.317-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:17:37.325-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:17:37.324-0300] {dag.py:2594} INFO - Creating ORM DAG for example_xcom
+[2022-10-16T07:17:37.333-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:17:37.333-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:17:37.356-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.203 seconds
+[2022-10-16T07:18:21.644-0300] {processor.py:156} INFO - Started process (PID=5955) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:18:21.646-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:18:21.646-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:18:21.646-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:18:21.674-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:18:21.694-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:18:21.694-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:18:21.711-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:18:21.711-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:18:21.733-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.092 seconds
+[2022-10-16T07:18:58.714-0300] {processor.py:156} INFO - Started process (PID=6029) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:18:58.717-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:18:58.718-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:18:58.718-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:18:58.752-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:18:58.771-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:18:58.771-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:18:58.789-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:18:58.788-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:18:58.810-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.099 seconds
+[2022-10-16T07:19:36.098-0300] {processor.py:156} INFO - Started process (PID=6101) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:19:36.100-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:19:36.100-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:19:36.100-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:19:36.121-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:19:36.142-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:19:36.142-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:19:36.159-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:19:36.159-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:19:36.183-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.087 seconds
+[2022-10-16T07:20:12.943-0300] {processor.py:156} INFO - Started process (PID=6199) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:20:12.946-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:20:12.946-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:20:12.946-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:20:12.981-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:20:13.004-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:20:13.004-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:20:13.019-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:20:13.019-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:20:13.042-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.107 seconds
+[2022-10-16T07:20:50.151-0300] {processor.py:156} INFO - Started process (PID=6387) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:20:50.153-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:20:50.154-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:20:50.153-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:20:50.177-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:20:50.197-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:20:50.197-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:20:50.214-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:20:50.213-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:20:50.237-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.089 seconds
+[2022-10-16T07:21:26.590-0300] {processor.py:156} INFO - Started process (PID=6450) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:21:26.592-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:21:26.592-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:21:26.592-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:21:26.613-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:21:26.634-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:21:26.634-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:21:26.651-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:21:26.650-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:21:26.681-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.094 seconds
+[2022-10-16T07:22:02.256-0300] {processor.py:156} INFO - Started process (PID=6516) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:22:02.258-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:22:02.259-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:22:02.259-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:22:02.281-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:22:02.301-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:22:02.301-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:22:02.317-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:22:02.317-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:22:02.341-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.087 seconds
+[2022-10-16T07:22:37.697-0300] {processor.py:156} INFO - Started process (PID=6582) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:22:37.699-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:22:37.700-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:22:37.699-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:22:37.736-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:22:37.763-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:22:37.763-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:22:37.783-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:22:37.782-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:22:37.806-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.113 seconds
+[2022-10-16T07:23:14.599-0300] {processor.py:156} INFO - Started process (PID=6642) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:23:14.602-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:23:14.603-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:23:14.603-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:23:14.631-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:23:14.655-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:23:14.654-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:23:14.673-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:23:14.672-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:23:14.697-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.102 seconds
+[2022-10-16T07:23:48.013-0300] {processor.py:156} INFO - Started process (PID=6702) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:23:48.016-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:23:48.017-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:23:48.017-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:23:48.039-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:23:48.060-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:23:48.060-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:23:48.076-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:23:48.076-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:23:48.101-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.091 seconds
+[2022-10-16T07:24:24.853-0300] {processor.py:156} INFO - Started process (PID=6770) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:24:24.854-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:24:24.855-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:24:24.855-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:24:24.879-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:24:24.904-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:24:24.904-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:24:24.928-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:24:24.928-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:24:24.955-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.105 seconds
+[2022-10-16T07:25:02.840-0300] {processor.py:156} INFO - Started process (PID=6840) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:25:02.843-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:25:02.844-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:25:02.844-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:25:02.870-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:25:02.893-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:25:02.893-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:25:02.911-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:25:02.911-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:25:02.937-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.100 seconds
+[2022-10-16T07:25:39.069-0300] {processor.py:156} INFO - Started process (PID=7030) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:25:39.071-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:25:39.072-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:25:39.072-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:25:39.104-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:25:39.123-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:25:39.123-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:25:39.140-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:25:39.140-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:25:39.163-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.099 seconds
+[2022-10-16T07:26:20.166-0300] {processor.py:156} INFO - Started process (PID=7101) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:26:20.168-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:26:20.169-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:26:20.169-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:26:20.190-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:26:20.210-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:26:20.210-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:26:20.225-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:26:20.225-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:26:20.249-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.086 seconds
+[2022-10-16T07:27:02.310-0300] {processor.py:156} INFO - Started process (PID=7185) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:27:02.312-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:27:02.313-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:27:02.313-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:27:02.334-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:27:02.353-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:27:02.353-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:27:02.370-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:27:02.370-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:27:02.391-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.084 seconds
+[2022-10-16T07:27:37.285-0300] {processor.py:156} INFO - Started process (PID=7247) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:27:37.292-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:27:37.292-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:27:37.292-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:27:37.318-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:27:37.354-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:27:37.354-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:27:37.375-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:27:37.374-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:27:37.401-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.118 seconds
+[2022-10-16T07:28:14.925-0300] {processor.py:156} INFO - Started process (PID=7322) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:28:14.948-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:28:14.949-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:28:14.949-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:28:14.984-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:28:15.003-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:28:15.003-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:28:15.020-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:28:15.019-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:28:15.100-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.182 seconds
+[2022-10-16T07:28:51.843-0300] {processor.py:156} INFO - Started process (PID=7389) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:28:51.846-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:28:51.847-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:28:51.847-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:28:51.873-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:28:51.893-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:28:51.893-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:28:51.909-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:28:51.908-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:28:51.931-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.094 seconds
+[2022-10-16T07:29:30.617-0300] {processor.py:156} INFO - Started process (PID=7457) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:29:30.620-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:29:30.621-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:29:30.621-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:29:30.651-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:29:30.675-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:29:30.674-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:29:30.693-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:29:30.692-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:29:30.718-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.106 seconds
+[2022-10-16T07:30:05.297-0300] {processor.py:156} INFO - Started process (PID=7525) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:30:05.302-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:30:05.302-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:30:05.302-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:30:05.326-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:30:05.348-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:30:05.348-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:30:05.365-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:30:05.365-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:30:05.390-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.096 seconds
+[2022-10-16T07:31:47.827-0300] {processor.py:156} INFO - Started process (PID=7906) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:31:47.833-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-10-16T07:31:47.833-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:31:47.833-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:31:47.856-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2022-10-16T07:31:47.876-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:31:47.876-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T07:31:47.891-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:31:47.891-0300] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-10-16T07:31:47.916-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.092 seconds
