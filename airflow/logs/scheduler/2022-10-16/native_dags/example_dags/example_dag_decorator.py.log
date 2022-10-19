@@ -142,3 +142,52 @@
 [2022-10-16T07:31:15.722-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:31:15.722-0300] {dag.py:2573} INFO - Sync 1 DAGs
 [2022-10-16T07:31:15.741-0300] {logging_mixin.py:117} INFO - [2022-10-16T07:31:15.741-0300] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
 [2022-10-16T07:31:15.764-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.144 seconds
+[2022-10-16T08:30:49.353-0300] {processor.py:156} INFO - Started process (PID=2583) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-10-16T08:30:49.355-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-10-16T08:30:49.356-0300] {logging_mixin.py:117} INFO - [2022-10-16T08:30:49.356-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-10-16T08:30:49.386-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-10-16T08:30:49.429-0300] {logging_mixin.py:117} INFO - [2022-10-16T08:30:49.429-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T08:30:49.442-0300] {logging_mixin.py:117} INFO - [2022-10-16T08:30:49.442-0300] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2022-10-16T08:30:49.464-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.120 seconds
+[2022-10-16T08:31:25.936-0300] {processor.py:156} INFO - Started process (PID=2639) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-10-16T08:31:25.938-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-10-16T08:31:25.939-0300] {logging_mixin.py:117} INFO - [2022-10-16T08:31:25.939-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-10-16T08:31:25.980-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-10-16T08:31:26.028-0300] {logging_mixin.py:117} INFO - [2022-10-16T08:31:26.028-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T08:31:26.044-0300] {logging_mixin.py:117} INFO - [2022-10-16T08:31:26.044-0300] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2022-10-16T08:31:26.070-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.142 seconds
+[2022-10-16T08:32:06.462-0300] {processor.py:156} INFO - Started process (PID=2682) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-10-16T08:32:06.466-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-10-16T08:32:06.467-0300] {logging_mixin.py:117} INFO - [2022-10-16T08:32:06.466-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-10-16T08:32:06.490-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-10-16T08:32:06.538-0300] {logging_mixin.py:117} INFO - [2022-10-16T08:32:06.538-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T08:32:06.558-0300] {logging_mixin.py:117} INFO - [2022-10-16T08:32:06.558-0300] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2022-10-16T08:32:06.583-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.123 seconds
+[2022-10-16T08:32:43.047-0300] {processor.py:156} INFO - Started process (PID=3138) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-10-16T08:32:43.052-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-10-16T08:32:43.052-0300] {logging_mixin.py:117} INFO - [2022-10-16T08:32:43.052-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-10-16T08:32:43.085-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-10-16T08:32:43.130-0300] {logging_mixin.py:117} INFO - [2022-10-16T08:32:43.129-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T08:32:43.145-0300] {logging_mixin.py:117} INFO - [2022-10-16T08:32:43.145-0300] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2022-10-16T08:32:43.172-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.128 seconds
+[2022-10-16T08:33:23.932-0300] {processor.py:156} INFO - Started process (PID=3176) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-10-16T08:33:23.934-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-10-16T08:33:23.934-0300] {logging_mixin.py:117} INFO - [2022-10-16T08:33:23.934-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-10-16T08:33:23.960-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-10-16T08:33:24.004-0300] {logging_mixin.py:117} INFO - [2022-10-16T08:33:24.004-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T08:33:24.020-0300] {logging_mixin.py:117} INFO - [2022-10-16T08:33:24.020-0300] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2022-10-16T08:33:24.043-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.113 seconds
+[2022-10-16T08:34:05.510-0300] {processor.py:156} INFO - Started process (PID=3219) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-10-16T08:34:05.517-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-10-16T08:34:05.518-0300] {logging_mixin.py:117} INFO - [2022-10-16T08:34:05.518-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-10-16T08:34:05.552-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-10-16T08:34:05.601-0300] {logging_mixin.py:117} INFO - [2022-10-16T08:34:05.601-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T08:34:05.620-0300] {logging_mixin.py:117} INFO - [2022-10-16T08:34:05.619-0300] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2022-10-16T08:34:05.648-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.141 seconds
+[2022-10-16T08:35:49.939-0300] {processor.py:156} INFO - Started process (PID=3392) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-10-16T08:35:49.945-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-10-16T08:35:49.945-0300] {logging_mixin.py:117} INFO - [2022-10-16T08:35:49.945-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-10-16T08:35:49.980-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-10-16T08:35:50.039-0300] {logging_mixin.py:117} INFO - [2022-10-16T08:35:50.038-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-16T08:35:50.055-0300] {logging_mixin.py:117} INFO - [2022-10-16T08:35:50.055-0300] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2022-10-16T08:35:50.081-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.145 seconds
