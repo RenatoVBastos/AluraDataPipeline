@@ -43,7 +43,7 @@ def connect_to_endpoint(url, headers):
 
 def paginate(url, headers, next_token=""):
     if next_token:
-        full_url = f"{url}&next_token={next_token}"
+        full_url == f"{url}&next_token={next_token}"
     else:
         full_url = url
 

@@ -1,0 +1,297 @@
+[2022-11-07T23:27:10.591-0300] {processor.py:156} INFO - Started process (PID=965212) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:27:10.591-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:27:10.592-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:27:10.592-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:27:10.617-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:27:10.667-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:27:10.773-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:27:10.773-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:27:10.818-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:27:10.817-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:27:10.930-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.344 seconds
+[2022-11-07T23:27:48.819-0300] {processor.py:156} INFO - Started process (PID=965426) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:27:48.823-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:27:48.824-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:27:48.823-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:27:48.838-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:27:48.861-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:27:48.915-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:27:48.915-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:27:48.931-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:27:48.931-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:27:48.956-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.142 seconds
+[2022-11-07T23:28:28.918-0300] {processor.py:156} INFO - Started process (PID=965506) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:28:28.925-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:28:28.926-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:28:28.926-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:28:28.943-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:28:28.965-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:28:29.017-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:28:29.017-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:28:29.033-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:28:29.033-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:28:29.056-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.142 seconds
+[2022-11-07T23:29:05.692-0300] {processor.py:156} INFO - Started process (PID=965581) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:29:05.694-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:29:05.694-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:29:05.694-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:29:05.708-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:29:05.732-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:29:05.786-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:29:05.786-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:29:05.802-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:29:05.802-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:29:05.826-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.141 seconds
+[2022-11-07T23:29:42.655-0300] {processor.py:156} INFO - Started process (PID=965656) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:29:42.657-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:29:42.657-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:29:42.657-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:29:42.671-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:29:42.695-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:29:42.754-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:29:42.754-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:29:42.770-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:29:42.770-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:29:42.792-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.140 seconds
+[2022-11-07T23:30:19.716-0300] {processor.py:156} INFO - Started process (PID=965730) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:30:19.725-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:30:19.726-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:30:19.726-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:30:19.739-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:30:19.761-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:30:19.813-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:30:19.813-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:30:19.830-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:30:19.830-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:30:19.892-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.180 seconds
+[2022-11-07T23:30:57.238-0300] {processor.py:156} INFO - Started process (PID=965804) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:30:57.241-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:30:57.242-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:30:57.242-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:30:57.269-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:30:57.323-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:30:57.397-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:30:57.397-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:30:57.413-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:30:57.413-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:30:57.436-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.203 seconds
+[2022-11-07T23:31:38.279-0300] {processor.py:156} INFO - Started process (PID=965884) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:31:38.283-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:31:38.283-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:31:38.283-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:31:38.306-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:31:38.328-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:31:38.379-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:31:38.379-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:31:38.397-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:31:38.397-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:31:38.422-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.147 seconds
+[2022-11-07T23:32:18.049-0300] {processor.py:156} INFO - Started process (PID=966095) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:32:18.051-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:32:18.051-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:32:18.051-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:32:18.065-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:32:18.089-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:32:18.148-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:32:18.148-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:32:18.166-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:32:18.166-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:32:18.193-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.147 seconds
+[2022-11-07T23:32:57.296-0300] {processor.py:156} INFO - Started process (PID=966172) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:32:57.298-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:32:57.299-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:32:57.299-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:32:57.318-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:32:57.339-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:32:57.392-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:32:57.392-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:32:57.408-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:32:57.408-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:32:57.431-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.140 seconds
+[2022-11-07T23:33:33.148-0300] {processor.py:156} INFO - Started process (PID=966244) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:33:33.151-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:33:33.152-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:33:33.152-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:33:33.177-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:33:33.208-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:33:33.262-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:33:33.262-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:33:33.278-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:33:33.278-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:33:33.301-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.158 seconds
+[2022-11-07T23:34:11.368-0300] {processor.py:156} INFO - Started process (PID=966319) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:34:11.369-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:34:11.370-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:34:11.370-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:34:11.382-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:34:11.406-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:34:11.460-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:34:11.460-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:34:11.476-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:34:11.476-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:34:11.499-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.134 seconds
+[2022-11-07T23:34:49.004-0300] {processor.py:156} INFO - Started process (PID=966395) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:34:49.006-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:34:49.007-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:34:49.006-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:34:49.018-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:34:49.041-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:34:49.094-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:34:49.093-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:34:49.110-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:34:49.110-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:34:49.134-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.133 seconds
+[2022-11-07T23:35:26.517-0300] {processor.py:156} INFO - Started process (PID=966470) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:35:26.520-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:35:26.520-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:35:26.520-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:35:26.535-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:35:26.562-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:35:26.624-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:35:26.624-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:35:26.649-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:35:26.649-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:35:26.676-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.162 seconds
+[2022-11-07T23:36:06.101-0300] {processor.py:156} INFO - Started process (PID=966548) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:36:06.102-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:36:06.103-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:36:06.103-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:36:06.115-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:36:06.137-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:36:06.188-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:36:06.188-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:36:06.205-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:36:06.205-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:36:06.227-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.129 seconds
+[2022-11-07T23:36:41.349-0300] {processor.py:156} INFO - Started process (PID=966617) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:36:41.356-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:36:41.356-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:36:41.356-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:36:41.369-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:36:41.394-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:36:41.454-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:36:41.454-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:36:41.474-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:36:41.474-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:36:41.502-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.158 seconds
+[2022-11-07T23:37:17.607-0300] {processor.py:156} INFO - Started process (PID=966790) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:37:17.610-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:37:17.610-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:37:17.610-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:37:17.629-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:37:17.654-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:37:17.712-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:37:17.712-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:37:17.730-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:37:17.730-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:37:17.756-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.154 seconds
+[2022-11-07T23:37:54.220-0300] {processor.py:156} INFO - Started process (PID=966894) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:37:54.222-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:37:54.222-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:37:54.222-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:37:54.234-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:37:54.255-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:37:54.307-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:37:54.307-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:37:54.323-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:37:54.323-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:37:54.348-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.131 seconds
+[2022-11-07T23:38:30.267-0300] {processor.py:156} INFO - Started process (PID=966963) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:38:30.270-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:38:30.271-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:38:30.271-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:38:30.290-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:38:30.322-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:38:30.375-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:38:30.375-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:38:30.391-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:38:30.391-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:38:30.414-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.153 seconds
+[2022-11-07T23:39:12.208-0300] {processor.py:156} INFO - Started process (PID=967064) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:39:12.211-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:39:12.211-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:39:12.211-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:39:12.224-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:39:12.248-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:39:12.303-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:39:12.303-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:39:12.320-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:39:12.320-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:39:12.345-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.140 seconds
+[2022-11-07T23:39:44.626-0300] {processor.py:156} INFO - Started process (PID=967123) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:39:44.627-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:39:44.627-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:39:44.627-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:39:44.657-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:39:44.695-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:39:44.786-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:39:44.785-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:39:44.812-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:39:44.812-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:39:44.842-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.219 seconds
+[2022-11-07T23:40:25.261-0300] {processor.py:156} INFO - Started process (PID=967206) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:40:25.265-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:40:25.267-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:40:25.267-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:40:25.285-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:40:25.310-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:40:25.364-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:40:25.363-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:40:25.380-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:40:25.380-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:40:25.402-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.148 seconds
+[2022-11-07T23:41:04.623-0300] {processor.py:156} INFO - Started process (PID=967283) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:41:04.625-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:41:04.627-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:41:04.626-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:41:04.645-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:41:04.673-0300] {logging_mixin.py:117} WARNING - /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/plugins_manager.py:258 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+[2022-11-07T23:41:04.728-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:41:04.728-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:41:04.744-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:41:04.743-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:41:04.765-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.148 seconds
+[2022-11-07T23:41:44.459-0300] {processor.py:156} INFO - Started process (PID=967366) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:41:44.461-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:41:44.462-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:41:44.462-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:41:44.479-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:41:44.556-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:41:44.555-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:41:44.574-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:41:44.573-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:41:44.599-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.143 seconds
+[2022-11-07T23:42:24.191-0300] {processor.py:156} INFO - Started process (PID=967573) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:42:24.193-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:42:24.194-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:42:24.194-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:42:24.209-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:42:24.285-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:42:24.284-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:42:24.304-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:42:24.304-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:42:24.331-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.149 seconds
+[2022-11-07T23:43:03.437-0300] {processor.py:156} INFO - Started process (PID=967649) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:43:03.443-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-11-07T23:43:03.444-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:43:03.444-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:43:03.467-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-11-07T23:43:03.543-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:43:03.542-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-07T23:43:03.559-0300] {logging_mixin.py:117} INFO - [2022-11-07T23:43:03.559-0300] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-11-07T23:43:03.584-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.152 seconds
