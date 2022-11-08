@@ -61,5 +61,5 @@ if __name__ == "__main__":
 				),
 			task_id="test_run"
 			)
-		#ti = TaskInstance(task=to, execution_date=datetime.now())
+		#ti = TaskInstance(task=to)
 		to.run()
