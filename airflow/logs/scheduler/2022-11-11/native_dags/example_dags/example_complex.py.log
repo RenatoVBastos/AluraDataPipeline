@@ -1,0 +1,714 @@
+[2022-11-10T23:56:37.897-0300] {processor.py:156} INFO - Started process (PID=75512) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-10T23:56:37.900-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-10T23:56:37.900-0300] {logging_mixin.py:117} INFO - [2022-11-10T23:56:37.900-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-10T23:56:37.927-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-10T23:56:37.952-0300] {logging_mixin.py:117} INFO - [2022-11-10T23:56:37.952-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T23:56:37.971-0300] {logging_mixin.py:117} INFO - [2022-11-10T23:56:37.970-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-10T23:56:37.995-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2022-11-10T23:57:15.101-0300] {processor.py:156} INFO - Started process (PID=75607) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-10T23:57:15.110-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-10T23:57:15.111-0300] {logging_mixin.py:117} INFO - [2022-11-10T23:57:15.111-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-10T23:57:15.136-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-10T23:57:15.171-0300] {logging_mixin.py:117} INFO - [2022-11-10T23:57:15.171-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T23:57:15.195-0300] {logging_mixin.py:117} INFO - [2022-11-10T23:57:15.195-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-10T23:57:15.231-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.133 seconds
+[2022-11-10T23:57:53.069-0300] {processor.py:156} INFO - Started process (PID=75818) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-10T23:57:53.073-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-10T23:57:53.074-0300] {logging_mixin.py:117} INFO - [2022-11-10T23:57:53.074-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-10T23:57:53.099-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-10T23:57:53.126-0300] {logging_mixin.py:117} INFO - [2022-11-10T23:57:53.126-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T23:57:53.144-0300] {logging_mixin.py:117} INFO - [2022-11-10T23:57:53.143-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-10T23:57:53.168-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.106 seconds
+[2022-11-10T23:58:33.769-0300] {processor.py:156} INFO - Started process (PID=75899) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-10T23:58:33.771-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-10T23:58:33.772-0300] {logging_mixin.py:117} INFO - [2022-11-10T23:58:33.772-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-10T23:58:33.795-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-10T23:58:33.824-0300] {logging_mixin.py:117} INFO - [2022-11-10T23:58:33.823-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T23:58:33.844-0300] {logging_mixin.py:117} INFO - [2022-11-10T23:58:33.844-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-10T23:58:33.870-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.104 seconds
+[2022-11-10T23:59:11.083-0300] {processor.py:156} INFO - Started process (PID=75973) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-10T23:59:11.086-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-10T23:59:11.087-0300] {logging_mixin.py:117} INFO - [2022-11-10T23:59:11.086-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-10T23:59:11.113-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-10T23:59:11.145-0300] {logging_mixin.py:117} INFO - [2022-11-10T23:59:11.145-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T23:59:11.167-0300] {logging_mixin.py:117} INFO - [2022-11-10T23:59:11.166-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-10T23:59:11.209-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.130 seconds
+[2022-11-11T00:00:14.835-0300] {processor.py:156} INFO - Started process (PID=76162) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:00:14.840-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:00:14.841-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:00:14.841-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:00:14.860-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:00:14.886-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:00:14.886-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:00:14.906-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:00:14.905-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:00:14.942-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.110 seconds
+[2022-11-11T00:00:52.810-0300] {processor.py:156} INFO - Started process (PID=76236) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:00:52.814-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:00:52.816-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:00:52.815-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:00:52.842-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:00:52.870-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:00:52.870-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:00:52.889-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:00:52.889-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:00:52.914-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.112 seconds
+[2022-11-11T00:01:32.042-0300] {processor.py:156} INFO - Started process (PID=76316) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:01:32.046-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:01:32.047-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:01:32.047-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:01:32.067-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:01:32.093-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:01:32.093-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:01:32.118-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:01:32.118-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:01:32.143-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.106 seconds
+[2022-11-11T00:03:40.813-0300] {processor.py:156} INFO - Started process (PID=77469) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:03:40.823-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:03:40.824-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:03:40.824-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:03:40.860-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:03:40.884-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:03:40.884-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:03:40.900-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:03:40.900-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:03:40.924-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.118 seconds
+[2022-11-11T00:04:18.667-0300] {processor.py:156} INFO - Started process (PID=77562) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:04:18.669-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:04:18.670-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:04:18.670-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:04:18.693-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:04:18.719-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:04:18.719-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:04:18.737-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:04:18.737-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:04:18.760-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.097 seconds
+[2022-11-11T00:05:00.970-0300] {processor.py:156} INFO - Started process (PID=77667) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:05:00.976-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:05:00.976-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:05:00.976-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:05:01.000-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:05:01.032-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:05:01.031-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:05:01.055-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:05:01.055-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:05:01.081-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.114 seconds
+[2022-11-11T00:05:44.743-0300] {processor.py:156} INFO - Started process (PID=77753) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:05:44.744-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:05:44.745-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:05:44.745-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:05:44.762-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:05:44.787-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:05:44.787-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:05:44.804-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:05:44.804-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:05:44.826-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.086 seconds
+[2022-11-11T00:06:28.016-0300] {processor.py:156} INFO - Started process (PID=77838) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:06:28.028-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:06:28.029-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:06:28.029-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:06:28.052-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:06:28.077-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:06:28.077-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:06:28.095-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:06:28.095-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:06:28.201-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.192 seconds
+[2022-11-11T00:07:08.108-0300] {processor.py:156} INFO - Started process (PID=78001) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:07:08.110-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:07:08.111-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:07:08.110-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:07:08.127-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:07:08.151-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:07:08.151-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:07:08.167-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:07:08.167-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:07:08.190-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds
+[2022-11-11T00:07:52.380-0300] {processor.py:156} INFO - Started process (PID=78573) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:07:52.385-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:07:52.387-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:07:52.387-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:07:52.413-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:07:52.474-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:07:52.473-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:07:52.577-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:07:52.576-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:07:52.690-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.313 seconds
+[2022-11-11T00:08:29.432-0300] {processor.py:156} INFO - Started process (PID=78649) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:08:29.438-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:08:29.439-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:08:29.439-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:08:29.464-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:08:29.490-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:08:29.490-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:08:29.508-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:08:29.508-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:08:29.533-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.106 seconds
+[2022-11-11T00:09:07.788-0300] {processor.py:156} INFO - Started process (PID=78724) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:09:07.791-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:09:07.791-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:09:07.791-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:09:07.814-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:09:07.863-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:09:07.863-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:09:07.895-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:09:07.894-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:09:07.926-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.140 seconds
+[2022-11-11T00:10:01.230-0300] {processor.py:156} INFO - Started process (PID=78821) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:10:01.233-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:10:01.234-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:10:01.233-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:10:01.258-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:10:01.282-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:10:01.282-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:10:01.299-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:10:01.299-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:10:01.323-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.099 seconds
+[2022-11-11T00:10:40.491-0300] {processor.py:156} INFO - Started process (PID=78897) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:10:40.494-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:10:40.495-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:10:40.495-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:10:40.525-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:10:40.554-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:10:40.553-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:10:40.570-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:10:40.570-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:10:40.595-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.111 seconds
+[2022-11-11T00:11:23.517-0300] {processor.py:156} INFO - Started process (PID=78980) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:11:23.520-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:11:23.522-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:11:23.522-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:11:23.554-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:11:23.584-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:11:23.584-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:11:23.601-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:11:23.601-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:11:23.626-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.115 seconds
+[2022-11-11T00:12:04.208-0300] {processor.py:156} INFO - Started process (PID=79063) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:12:04.211-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:12:04.213-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:12:04.212-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:12:04.236-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:12:04.263-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:12:04.263-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:12:04.280-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:12:04.280-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:12:04.305-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.103 seconds
+[2022-11-11T00:12:41.941-0300] {processor.py:156} INFO - Started process (PID=79285) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:12:41.944-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:12:41.946-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:12:41.945-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:12:41.975-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:12:42.006-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:12:42.006-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:12:42.023-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:12:42.023-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:12:42.049-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.115 seconds
+[2022-11-11T00:13:28.850-0300] {processor.py:156} INFO - Started process (PID=79381) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:13:28.854-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:13:28.855-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:13:28.855-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:13:28.884-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:13:28.909-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:13:28.909-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:13:28.927-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:13:28.927-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:13:28.950-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.108 seconds
+[2022-11-11T00:14:10.393-0300] {processor.py:156} INFO - Started process (PID=79463) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:14:10.395-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:14:10.396-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:14:10.396-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:14:10.414-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:14:10.439-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:14:10.439-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:14:10.459-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:14:10.458-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:14:10.491-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.101 seconds
+[2022-11-11T00:14:49.855-0300] {processor.py:156} INFO - Started process (PID=79541) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:14:49.858-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:14:49.859-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:14:49.859-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:14:49.893-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:14:49.925-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:14:49.925-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:14:49.945-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:14:49.945-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:14:49.981-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.132 seconds
+[2022-11-11T00:15:29.025-0300] {processor.py:156} INFO - Started process (PID=79622) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:15:29.028-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:15:29.028-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:15:29.028-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:15:29.050-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:15:29.077-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:15:29.077-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:15:29.095-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:15:29.095-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:15:29.120-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2022-11-11T00:16:12.691-0300] {processor.py:156} INFO - Started process (PID=79712) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:16:12.702-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:16:12.703-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:16:12.702-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:16:12.722-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:16:12.747-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:16:12.747-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:16:12.764-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:16:12.763-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:16:12.787-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.101 seconds
+[2022-11-11T00:16:52.806-0300] {processor.py:156} INFO - Started process (PID=79792) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:16:52.808-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:16:52.809-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:16:52.809-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:16:52.826-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:16:52.850-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:16:52.850-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:16:52.867-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:16:52.867-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:16:52.893-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2022-11-11T00:17:31.676-0300] {processor.py:156} INFO - Started process (PID=79870) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:17:31.678-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:17:31.679-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:17:31.679-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:17:31.700-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:17:31.729-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:17:31.729-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:17:31.748-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:17:31.748-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:17:31.779-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.106 seconds
+[2022-11-11T00:18:14.405-0300] {processor.py:156} INFO - Started process (PID=80085) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:18:14.408-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:18:14.410-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:18:14.409-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:18:14.429-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:18:14.454-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:18:14.454-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:18:14.472-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:18:14.472-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:18:14.495-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.104 seconds
+[2022-11-11T00:18:52.680-0300] {processor.py:156} INFO - Started process (PID=80162) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:18:52.682-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:18:52.682-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:18:52.682-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:18:52.700-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:18:52.728-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:18:52.728-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:18:52.750-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:18:52.749-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:18:52.776-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.099 seconds
+[2022-11-11T00:19:34.884-0300] {processor.py:156} INFO - Started process (PID=80248) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:19:34.886-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:19:34.887-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:19:34.886-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:19:34.904-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:19:34.929-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:19:34.929-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:19:34.945-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:19:34.945-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:19:34.968-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2022-11-11T00:20:13.708-0300] {processor.py:156} INFO - Started process (PID=80325) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:20:13.711-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:20:13.712-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:20:13.711-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:20:13.731-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:20:13.757-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:20:13.757-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:20:13.783-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:20:13.782-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:20:13.811-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.106 seconds
+[2022-11-11T00:20:57.405-0300] {processor.py:156} INFO - Started process (PID=80411) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:20:57.408-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:20:57.409-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:20:57.408-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:20:57.431-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:20:57.457-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:20:57.457-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:20:57.473-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:20:57.473-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:20:57.496-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.095 seconds
+[2022-11-11T00:21:36.566-0300] {processor.py:156} INFO - Started process (PID=80492) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:21:36.571-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:21:36.572-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:21:36.572-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:21:36.593-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:21:36.617-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:21:36.617-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:21:36.634-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:21:36.634-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:21:36.658-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.097 seconds
+[2022-11-11T00:22:17.995-0300] {processor.py:156} INFO - Started process (PID=80577) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:22:17.997-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:22:17.997-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:22:17.997-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:22:18.015-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:22:18.042-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:22:18.042-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:22:18.062-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:22:18.062-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:22:18.095-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.104 seconds
+[2022-11-11T00:22:55.644-0300] {processor.py:156} INFO - Started process (PID=80784) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:22:55.647-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:22:55.648-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:22:55.648-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:22:55.672-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:22:55.699-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:22:55.698-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:22:55.716-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:22:55.716-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:22:55.742-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.102 seconds
+[2022-11-11T00:23:39.818-0300] {processor.py:156} INFO - Started process (PID=80870) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:23:39.823-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:23:39.824-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:23:39.824-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:23:39.853-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:23:39.878-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:23:39.878-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:23:39.896-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:23:39.896-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:23:39.920-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.106 seconds
+[2022-11-11T00:24:17.860-0300] {processor.py:156} INFO - Started process (PID=80949) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:24:17.862-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:24:17.863-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:24:17.862-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:24:17.880-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:24:17.906-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:24:17.906-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:24:17.924-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:24:17.924-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:24:17.949-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.092 seconds
+[2022-11-11T00:24:57.999-0300] {processor.py:156} INFO - Started process (PID=81026) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:24:58.004-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:24:58.006-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:24:58.006-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:24:58.040-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:24:58.071-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:24:58.070-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:24:58.087-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:24:58.087-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:24:58.109-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.123 seconds
+[2022-11-11T00:25:35.156-0300] {processor.py:156} INFO - Started process (PID=81102) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:25:35.159-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:25:35.160-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:25:35.160-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:25:35.192-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:25:35.226-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:25:35.226-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:25:35.244-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:25:35.244-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:25:35.269-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.118 seconds
+[2022-11-11T00:26:17.833-0300] {processor.py:156} INFO - Started process (PID=81189) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:26:17.835-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:26:17.836-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:26:17.836-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:26:17.852-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:26:17.877-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:26:17.877-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:26:17.893-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:26:17.893-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:26:17.915-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds
+[2022-11-11T00:27:03.379-0300] {processor.py:156} INFO - Started process (PID=81280) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:27:03.381-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:27:03.381-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:27:03.381-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:27:03.398-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:27:03.422-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:27:03.422-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:27:03.438-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:27:03.438-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:27:03.463-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.086 seconds
+[2022-11-11T00:27:42.700-0300] {processor.py:156} INFO - Started process (PID=81491) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:27:42.704-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:27:42.705-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:27:42.704-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:27:42.729-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:27:42.764-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:27:42.764-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:27:42.785-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:27:42.784-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:27:42.809-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.116 seconds
+[2022-11-11T00:28:27.747-0300] {processor.py:156} INFO - Started process (PID=81585) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:28:27.751-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:28:27.752-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:28:27.752-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:28:27.779-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:28:27.819-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:28:27.819-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:28:27.842-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:28:27.841-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:28:27.870-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.129 seconds
+[2022-11-11T00:29:12.456-0300] {processor.py:156} INFO - Started process (PID=81674) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:29:12.459-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:29:12.460-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:29:12.460-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:29:12.480-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:29:12.511-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:29:12.510-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:29:12.530-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:29:12.529-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:29:12.564-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.114 seconds
+[2022-11-11T00:29:56.166-0300] {processor.py:156} INFO - Started process (PID=81755) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:29:56.170-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:29:56.172-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:29:56.171-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:29:56.197-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:29:56.224-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:29:56.223-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:29:56.240-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:29:56.240-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:29:56.263-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.104 seconds
+[2022-11-11T00:30:39.894-0300] {processor.py:156} INFO - Started process (PID=81839) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:30:39.897-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:30:39.898-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:30:39.898-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:30:39.927-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:30:39.955-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:30:39.955-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:30:39.972-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:30:39.971-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:30:39.994-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.107 seconds
+[2022-11-11T00:31:18.864-0300] {processor.py:156} INFO - Started process (PID=81917) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:31:18.868-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:31:18.870-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:31:18.869-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:31:18.898-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:31:18.927-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:31:18.927-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:31:18.943-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:31:18.943-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:31:18.967-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.111 seconds
+[2022-11-11T00:31:55.553-0300] {processor.py:156} INFO - Started process (PID=81990) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:31:55.555-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:31:55.556-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:31:55.556-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:31:55.572-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:31:55.596-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:31:55.596-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:31:55.613-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:31:55.613-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:31:55.635-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds
+[2022-11-11T00:32:39.542-0300] {processor.py:156} INFO - Started process (PID=82205) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:32:39.544-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:32:39.545-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:32:39.544-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:32:39.563-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:32:39.591-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:32:39.591-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:32:39.610-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:32:39.610-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:32:39.633-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.093 seconds
+[2022-11-11T00:33:22.343-0300] {processor.py:156} INFO - Started process (PID=82417) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:33:22.349-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:33:22.350-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:33:22.349-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:33:22.367-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:33:22.396-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:33:22.396-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:33:22.419-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:33:22.419-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:33:22.445-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.104 seconds
+[2022-11-11T00:34:00.398-0300] {processor.py:156} INFO - Started process (PID=82496) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:34:00.402-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:34:00.403-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:34:00.403-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:34:00.420-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:34:00.447-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:34:00.447-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:34:00.468-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:34:00.468-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:34:00.494-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.099 seconds
+[2022-11-11T00:34:44.187-0300] {processor.py:156} INFO - Started process (PID=82584) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:34:44.190-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:34:44.192-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:34:44.191-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:34:44.229-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:34:44.257-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:34:44.257-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:34:44.275-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:34:44.275-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:34:44.300-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.119 seconds
+[2022-11-11T00:35:25.666-0300] {processor.py:156} INFO - Started process (PID=82668) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:35:25.672-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:35:25.673-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:35:25.672-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:35:25.698-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:35:25.727-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:35:25.727-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:35:25.746-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:35:25.746-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:35:25.769-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.106 seconds
+[2022-11-11T00:36:09.088-0300] {processor.py:156} INFO - Started process (PID=82757) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:36:09.103-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:36:09.104-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:36:09.104-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:36:09.131-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:36:09.168-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:36:09.168-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:36:09.205-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:36:09.204-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:36:09.239-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.155 seconds
+[2022-11-11T00:36:49.568-0300] {processor.py:156} INFO - Started process (PID=82839) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:36:49.570-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:36:49.570-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:36:49.570-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:36:49.588-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:36:49.614-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:36:49.614-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:36:49.635-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:36:49.635-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:36:49.659-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.095 seconds
+[2022-11-11T00:37:28.791-0300] {processor.py:156} INFO - Started process (PID=82918) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:37:28.797-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:37:28.798-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:37:28.798-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:37:28.823-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:37:28.848-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:37:28.848-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:37:28.868-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:37:28.868-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:37:28.902-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.115 seconds
+[2022-11-11T00:38:07.038-0300] {processor.py:156} INFO - Started process (PID=83124) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:38:07.040-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:38:07.041-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:38:07.041-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:38:07.074-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:38:07.107-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:38:07.107-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:38:07.126-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:38:07.125-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:38:07.152-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.121 seconds
+[2022-11-11T00:38:50.463-0300] {processor.py:156} INFO - Started process (PID=83222) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:38:50.465-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:38:50.467-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:38:50.466-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:38:50.487-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:38:50.515-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:38:50.515-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:38:50.532-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:38:50.532-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:38:50.556-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2022-11-11T00:39:31.140-0300] {processor.py:156} INFO - Started process (PID=83301) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:39:31.145-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:39:31.146-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:39:31.146-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:39:31.168-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:39:31.195-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:39:31.195-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:39:31.212-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:39:31.212-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:39:31.238-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.103 seconds
+[2022-11-11T00:40:11.625-0300] {processor.py:156} INFO - Started process (PID=83386) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:40:11.628-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:40:11.628-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:40:11.628-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:40:11.645-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:40:11.670-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:40:11.669-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:40:11.687-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:40:11.687-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:40:11.715-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.093 seconds
+[2022-11-11T00:40:57.364-0300] {processor.py:156} INFO - Started process (PID=83490) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:40:57.367-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:40:57.368-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:40:57.368-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:40:57.404-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:40:57.429-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:40:57.429-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:40:57.447-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:40:57.447-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:40:57.472-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.115 seconds
+[2022-11-11T00:41:35.973-0300] {processor.py:156} INFO - Started process (PID=83567) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:41:35.977-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:41:35.978-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:41:35.978-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:41:35.998-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:41:36.027-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:41:36.027-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:41:36.047-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:41:36.047-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:41:36.072-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.104 seconds
+[2022-11-11T00:42:19.240-0300] {processor.py:156} INFO - Started process (PID=83653) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:42:19.243-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:42:19.244-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:42:19.244-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:42:19.262-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:42:19.287-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:42:19.287-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:42:19.305-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:42:19.305-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:42:19.402-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.166 seconds
+[2022-11-11T00:43:03.485-0300] {processor.py:156} INFO - Started process (PID=83869) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:43:03.508-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:43:03.508-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:43:03.508-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:43:03.546-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:43:03.602-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:43:03.601-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:43:03.642-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:43:03.642-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:43:03.696-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.214 seconds
+[2022-11-11T00:43:42.607-0300] {processor.py:156} INFO - Started process (PID=83965) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:43:42.608-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:43:42.609-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:43:42.609-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:43:42.627-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:43:42.654-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:43:42.654-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:43:42.671-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:43:42.671-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:43:42.696-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.092 seconds
+[2022-11-11T00:44:28.547-0300] {processor.py:156} INFO - Started process (PID=84057) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:44:28.553-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:44:28.554-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:44:28.553-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:44:28.581-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:44:28.606-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:44:28.606-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:44:28.623-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:44:28.622-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:44:28.645-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2022-11-11T00:45:12.376-0300] {processor.py:156} INFO - Started process (PID=84148) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:45:12.381-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:45:12.382-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:45:12.382-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:45:12.409-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:45:12.439-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:45:12.439-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:45:12.458-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:45:12.458-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:45:12.487-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.115 seconds
+[2022-11-11T00:45:52.208-0300] {processor.py:156} INFO - Started process (PID=84255) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:45:52.209-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:45:52.210-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:45:52.210-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:45:52.227-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:45:52.254-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:45:52.254-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:45:52.273-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:45:52.273-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:45:52.298-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.093 seconds
+[2022-11-11T00:46:32.721-0300] {processor.py:156} INFO - Started process (PID=84438) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:46:32.724-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:46:32.725-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:46:32.725-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:46:32.748-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:46:32.776-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:46:32.776-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:46:32.795-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:46:32.795-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:46:32.819-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.105 seconds
+[2022-11-11T00:47:18.701-0300] {processor.py:156} INFO - Started process (PID=84530) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:47:18.704-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:47:18.706-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:47:18.706-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:47:18.732-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:47:18.760-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:47:18.760-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:47:18.779-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:47:18.779-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:47:18.802-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.105 seconds
+[2022-11-11T00:48:02.948-0300] {processor.py:156} INFO - Started process (PID=84805) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:48:02.952-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:48:02.953-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:48:02.953-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:48:02.971-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:48:03.000-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:48:03.000-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:48:03.020-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:48:03.020-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:48:03.045-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2022-11-11T00:48:48.757-0300] {processor.py:156} INFO - Started process (PID=84959) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:48:48.760-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:48:48.761-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:48:48.761-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:48:48.784-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:48:48.811-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:48:48.811-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:48:48.828-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:48:48.828-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:48:48.900-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.147 seconds
+[2022-11-11T00:49:30.291-0300] {processor.py:156} INFO - Started process (PID=85042) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:49:30.294-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:49:30.295-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:49:30.295-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:49:30.322-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:49:30.351-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:49:30.351-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:49:30.368-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:49:30.368-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:49:30.392-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.107 seconds
+[2022-11-11T00:50:09.289-0300] {processor.py:156} INFO - Started process (PID=85194) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:50:09.292-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:50:09.293-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:50:09.292-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:50:09.314-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:50:09.339-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:50:09.339-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:50:09.356-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:50:09.356-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:50:09.387-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.101 seconds
+[2022-11-11T00:50:47.312-0300] {processor.py:156} INFO - Started process (PID=85271) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:50:47.315-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:50:47.321-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:50:47.321-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:50:47.353-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:50:47.386-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:50:47.386-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:50:47.407-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:50:47.407-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:50:47.434-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.124 seconds
+[2022-11-11T00:51:32.763-0300] {processor.py:156} INFO - Started process (PID=85359) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:51:32.766-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:51:32.769-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:51:32.769-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:51:32.798-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:51:32.827-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:51:32.827-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:51:32.847-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:51:32.847-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:51:32.882-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.124 seconds
+[2022-11-11T00:52:15.691-0300] {processor.py:156} INFO - Started process (PID=85630) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:52:15.695-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:52:15.696-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:52:15.695-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:52:15.720-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:52:15.746-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:52:15.746-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:52:15.767-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:52:15.766-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:52:15.797-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.114 seconds
+[2022-11-11T00:52:58.478-0300] {processor.py:156} INFO - Started process (PID=86011) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:52:58.484-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:52:58.485-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:52:58.485-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:52:58.517-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:52:58.546-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:52:58.546-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:52:58.562-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:52:58.562-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:52:58.586-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.114 seconds
+[2022-11-11T00:53:37.056-0300] {processor.py:156} INFO - Started process (PID=86090) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:53:37.058-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:53:37.058-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:53:37.058-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:53:37.076-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:53:37.105-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:53:37.105-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:53:37.127-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:53:37.127-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:53:37.152-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2022-11-11T00:54:18.510-0300] {processor.py:156} INFO - Started process (PID=86173) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:54:18.513-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:54:18.514-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:54:18.513-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:54:18.546-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:54:18.570-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:54:18.570-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:54:18.586-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:54:18.586-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:54:18.610-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.106 seconds
+[2022-11-11T00:55:01.495-0300] {processor.py:156} INFO - Started process (PID=86258) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:55:01.501-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:55:01.502-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:55:01.502-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:55:01.522-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:55:01.554-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:55:01.553-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:55:01.579-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:55:01.579-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:55:01.604-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.114 seconds
+[2022-11-11T00:55:41.661-0300] {processor.py:156} INFO - Started process (PID=86361) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:55:41.663-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:55:41.663-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:55:41.663-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:55:41.680-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:55:41.706-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:55:41.706-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:55:41.726-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:55:41.725-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:55:41.748-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.090 seconds
+[2022-11-11T00:56:26.594-0300] {processor.py:156} INFO - Started process (PID=86458) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:56:26.598-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:56:26.600-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:56:26.599-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:56:26.624-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:56:26.651-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:56:26.651-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:56:26.669-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:56:26.669-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:56:26.692-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.105 seconds
+[2022-11-11T00:57:05.103-0300] {processor.py:156} INFO - Started process (PID=86536) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:57:05.106-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:57:05.107-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:57:05.106-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:57:05.134-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:57:05.160-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:57:05.160-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:57:05.178-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:57:05.178-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:57:05.203-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.104 seconds
+[2022-11-11T00:57:49.026-0300] {processor.py:156} INFO - Started process (PID=86752) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:57:49.028-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:57:49.029-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:57:49.029-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:57:49.059-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:57:49.087-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:57:49.086-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:57:49.103-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:57:49.103-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:57:49.172-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.153 seconds
+[2022-11-11T00:58:33.190-0300] {processor.py:156} INFO - Started process (PID=86836) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:58:33.193-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:58:33.194-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:58:33.193-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:58:33.217-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:58:33.243-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:58:33.243-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:58:33.260-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:58:33.260-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:58:33.291-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.105 seconds
+[2022-11-11T00:59:17.444-0300] {processor.py:156} INFO - Started process (PID=86926) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:59:17.447-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T00:59:17.447-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:59:17.447-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:59:17.469-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T00:59:17.495-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:59:17.494-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T00:59:17.512-0300] {logging_mixin.py:117} INFO - [2022-11-11T00:59:17.512-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T00:59:17.539-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.099 seconds
+[2022-11-11T01:00:02.276-0300] {processor.py:156} INFO - Started process (PID=87019) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:00:02.278-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T01:00:02.279-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:00:02.279-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:00:02.296-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:00:02.320-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:00:02.320-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T01:00:02.338-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:00:02.338-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T01:00:02.363-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.090 seconds
+[2022-11-11T01:00:45.183-0300] {processor.py:156} INFO - Started process (PID=87103) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:00:45.185-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T01:00:45.186-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:00:45.186-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:00:45.212-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:00:45.236-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:00:45.236-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T01:00:45.254-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:00:45.254-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T01:00:45.278-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2022-11-11T01:01:23.267-0300] {processor.py:156} INFO - Started process (PID=87179) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:01:23.270-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T01:01:23.271-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:01:23.271-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:01:23.293-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:01:23.318-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:01:23.318-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T01:01:23.335-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:01:23.335-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T01:01:23.360-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.098 seconds
+[2022-11-11T01:02:08.553-0300] {processor.py:156} INFO - Started process (PID=87269) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:02:08.558-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T01:02:08.559-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:02:08.559-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:02:08.584-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:02:08.608-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:02:08.608-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T01:02:08.631-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:02:08.631-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T01:02:08.656-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.110 seconds
+[2022-11-11T01:02:52.980-0300] {processor.py:156} INFO - Started process (PID=87485) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:02:52.985-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T01:02:52.986-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:02:52.985-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:02:53.010-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:02:53.037-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:02:53.036-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T01:02:53.057-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:02:53.056-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T01:02:53.080-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.104 seconds
+[2022-11-11T01:03:40.542-0300] {processor.py:156} INFO - Started process (PID=87577) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:03:40.546-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T01:03:40.547-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:03:40.547-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:03:40.600-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:03:40.680-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:03:40.679-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T01:03:40.710-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:03:40.710-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T01:03:40.740-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.206 seconds
+[2022-11-11T01:04:19.102-0300] {processor.py:156} INFO - Started process (PID=87655) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:04:19.105-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T01:04:19.105-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:04:19.105-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:04:19.123-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:04:19.150-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:04:19.150-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T01:04:19.171-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:04:19.171-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T01:04:19.196-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.096 seconds
+[2022-11-11T01:05:04.871-0300] {processor.py:156} INFO - Started process (PID=87747) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:05:04.874-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T01:05:04.876-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:05:04.875-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:05:04.900-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:05:04.924-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:05:04.924-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T01:05:04.942-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:05:04.941-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T01:05:04.964-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2022-11-11T01:05:50.984-0300] {processor.py:156} INFO - Started process (PID=87837) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:05:50.986-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T01:05:50.987-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:05:50.986-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:05:51.005-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:05:51.033-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:05:51.033-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T01:05:51.051-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:05:51.051-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T01:05:51.076-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.094 seconds
+[2022-11-11T01:06:27.691-0300] {processor.py:156} INFO - Started process (PID=87915) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:06:27.696-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T01:06:27.697-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:06:27.697-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:06:27.720-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:06:27.750-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:06:27.750-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T01:06:27.769-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:06:27.769-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T01:06:27.794-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.106 seconds
+[2022-11-11T01:07:04.140-0300] {processor.py:156} INFO - Started process (PID=87992) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:07:04.143-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T01:07:04.144-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:07:04.144-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:07:04.176-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:07:04.206-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:07:04.205-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T01:07:04.222-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:07:04.222-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T01:07:04.248-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.114 seconds
+[2022-11-11T01:07:40.830-0300] {processor.py:156} INFO - Started process (PID=88193) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:07:40.835-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T01:07:40.836-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:07:40.836-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:07:40.865-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:07:40.895-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:07:40.894-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T01:07:40.912-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:07:40.912-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T01:07:40.936-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.114 seconds
+[2022-11-11T01:08:26.178-0300] {processor.py:156} INFO - Started process (PID=88306) to work on /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:08:26.185-0300] {processor.py:758} INFO - Processing file /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-11-11T01:08:26.186-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:08:26.186-0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:08:26.206-0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-11-11T01:08:26.237-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:08:26.236-0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-11T01:08:26.259-0300] {logging_mixin.py:117} INFO - [2022-11-11T01:08:26.259-0300] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-11-11T01:08:26.288-0300] {processor.py:178} INFO - Processing /home/renato/Documentos/datapipeline/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.115 seconds
